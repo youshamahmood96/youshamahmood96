@@ -7,4 +7,4 @@
 - 🤔 I’m looking for help with authentication
 - 💬 Ask me about Javascript/ReactJs
 - 📫 How to reach me: 
-https://github-readme-stats.vercel.app/api?username=youshamahmood96&hide=stars
+<img src="https://github-readme-stats.vercel.app/api?username=youshamahmood96&hide=stars">
