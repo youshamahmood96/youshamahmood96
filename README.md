@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats-showrin.vercel.app/api?username=youshamahmood96&hide=stars&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&include_all_commits=true&count_private=true&show_icons=true" alt="Yousha's Github Commit Stats" height="180em">&nbsp
+  <img src="https://github-readme-stats-showrin.vercel.app/api?username=youshamahmood96&hide=stars&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&include_all_commits=true&count_private=true&show_icons=true" alt="Yousha's Github Commit Stats" height="180em">&nbsp;&nbsp;
   <img src="https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=youshamahmood96&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&count_private=true" alt="Yousha's Github Top Languages Stats" height="180em">
 </p>
 <br>
