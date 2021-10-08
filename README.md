@@ -1,5 +1,6 @@
 ### Hello, fellow seeker! 👋
 
+![](https://komarev.com/ghpvc/?username=youshamahmood96)
 
 - 🔭 I’m currently working on something cool 😉 (I hope!)
 - 🌱 I’m currently learning typescript
