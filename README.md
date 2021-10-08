@@ -23,6 +23,7 @@
 <a href="https://www.youtube.com/mtechviral/">
   <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+<br/>
 
 - 🔭 I’m currently working on something cool 😉 (I hope!)
 - 🌱 I’m currently learning typescript
