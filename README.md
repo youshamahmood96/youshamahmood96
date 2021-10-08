@@ -22,7 +22,7 @@
 - 💬 Ask me about Javascript/ReactJs
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=youshamahmood96&hide=stars&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"  height="180em" >&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youshamahmood96&hide=stars&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"  height="180em" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youshamahmood96&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"  height="180em" >
  </p>
 
 
