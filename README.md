@@ -27,7 +27,7 @@
  </p>
  -->
 <p align="center">
-  <img src="https://github-readme-stats-showrin.vercel.app/api?username=youshamahmood96&include_all_commits=true&count_private=true&show_icons=true" alt="Yousha's Github Commit Stats" height="180em">&nbsp;&nbsp;
-  <img src="https://github-readme-stats-showrin.vercel.app/api/top-langs/?youshamahmood96=Showrin&layout=compact&count_private=true" alt="Showrin's Github Top Languages Stats" height="180em">
+  <img src="https://github-readme-stats-showrin.vercel.app/api?username=youshamahmood96&hide=stars&include_all_commits=true&count_private=true&show_icons=true" alt="Yousha's Github Commit Stats" height="180em">&nbsp;&nbsp;
+  <img src="https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=youshamahmood96&layout=compact&count_private=true" alt="Showrin's Github Top Languages Stats" height="180em">
 </p>
 
