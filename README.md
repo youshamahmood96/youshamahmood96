@@ -11,6 +11,9 @@
 <a href="https://www.facebook.com/eusha.mahmood/">
   <img align="left" alt="Yousha's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a href="https://youshamahmood96.medium.com/">
+  <img align="left" alt="Yousha's Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 
 <br/>
 <br/>
