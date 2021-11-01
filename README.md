@@ -17,11 +17,13 @@
 <br/>
 <br/>
 
-### Things I did
+<a href="https://github.com/opencrvs/opencrvs-core/commits?author=youshamahmood96">Open-Source Contributions</a>
+
+### Stats
 
   <img  src="https://github-readme-stats.vercel.app/api?username=youshamahmood96&hide=stars&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&include_all_commits=true&count_private=true&show_icons=true" alt="Yousha's Github Commit Stats" height="180em">
 
-### Languages I write
+### Languages
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youshamahmood96&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&count_private=true" alt="Yousha's Github Top Languages Stats" height="180em">
 <br>
