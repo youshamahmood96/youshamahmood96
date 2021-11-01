@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/opencrvs/opencrvs-core/commits?author=youshamahmood96">Open-Source Contributions</a>
+<a href="https://github.com/opencrvs/opencrvs-core/commits?author=youshamahmood96">Check out my open-source contributions!</a>
 
 ### Stats
 
