@@ -21,7 +21,7 @@
 
 ### Stats
 
-  <img  src="https://github-readme-stats.vercel.app/api?username=youshamahmood96&hide=stars&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&include_all_commits=true&count_private=true&show_icons=true" alt="Yousha's Github Commit Stats" height="180em">
+  <img  src="https://github-readme-stats.vercel.app/api?username=youshamahmood96&hide=stars&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&include_all_commits=true&count_private=true&show_icons=true" alt="Yousha's Github Commit Stat" height="180em">
 
 ### Languages
  
