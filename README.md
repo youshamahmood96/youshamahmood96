@@ -1,5 +1,3 @@
-# Hello, fellow seeker! 👋
-
 ## Socials & Blog
 
 <a href="https://www.linkedin.com/in/yousha-mahmood-0110a6144/">
